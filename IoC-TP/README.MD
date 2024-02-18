@@ -2,4 +2,4 @@
 <img src="captures/static.png"></img>
 <img src="captures/resultStatic.png"></img>
 <img src="captures/dynamique.png"></img>
-<img src="captures/resultDynamique.png"></img>
+<img src="captures/resultDynamique2.png"></img>
