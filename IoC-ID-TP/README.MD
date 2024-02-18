@@ -20,7 +20,7 @@ c. En utilisant le Framework Spring
        - Version XML
        - Version annotations
 </p>
-<img src="captures/annotation1.png"></img>
+<img src="captures/annotatio1.png"></img>
 <img src="captures/annotation2.png"></img>
 <h3>Diagramme des Classes</h3>
 <img src="captures/diagrame.png"></img>
