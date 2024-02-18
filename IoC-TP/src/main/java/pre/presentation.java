@@ -15,8 +15,8 @@ public class presentation {
     public static void main(String[] args) throws Exception {
         //**** Faire l'injection des dépendances ****
         //- Par instanciation statique:
-            /* DaoImpl dao=new DaoImpl();
-              DaoImplV2 dao=new DaoImplV2();
+             /*DaoImpl dao=new DaoImpl();
+              //DaoImplV2 dao=new DaoImplV2();
               Metier metier=new Metier();
               metier.setDao(dao);*/
         //- Par instanciation dynamique:
