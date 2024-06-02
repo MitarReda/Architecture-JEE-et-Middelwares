@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoicmVkYSIsImxhc3RuYW1lIjoiYWRlciIsImVtYWlsIjoicmVkYUBnbGFpbS5jb20iLCJyb2xlcyI6WyJVU0VSIl19._Um_zI5HMEtPDMd44MEeEwWxRlmRSAr9XtQIhOD4xhI"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoicmVkYSIsImxhc3RuYW1lIjoiYWRlciIsImVtYWlsIjoicmVkYUBnbGFpbS5jb20iLCJyb2xlcyI6WyJVU0VSIl19.0edCaKOui-uLnHiFE_-aa6kXRy67iaPjJyH5BDy2BAk"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoicmVkYSIsImxhc3RuYW1lIjoiYWRlciIsImVtYWlsIjoicmVkYUBnbGFpbS5jb20iLCJyb2xlcyI6WyJVU0VSIiwiQURNSU4iXX0.70HFbR2RQYjwb0jztz7nFn_TkygwGt6ScCMWiFHzXXQ"
+    }
+  ],
+  "products": [
+    {
+      "id": "72f7",
+      "name": "qsd",
+      "price": 0,
+      "checked": true
+    },
+    {
+      "id": "944b",
+      "name": "qsddd",
+      "price": 0,
+      "checked": true
+    },
+    {
+      "name": "saad",
+      "price": 0,
+      "checked": false,
+      "id": "Fke61Qj"
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "checked": false,
+      "id": "0M2flCl"
+    },
+    {
+      "name": "testve",
+      "price": 0,
+      "checked": false,
+      "id": "vl8RsJr"
+    },
+    {
+      "name": "bb",
+      "price": 0,
+      "checked": false,
+      "id": "fVhuKDT"
+    },
+    {
+      "name": "pmm",
+      "price": 0,
+      "checked": false,
+      "id": "k36kTjb"
+    }
+  ]
+}
