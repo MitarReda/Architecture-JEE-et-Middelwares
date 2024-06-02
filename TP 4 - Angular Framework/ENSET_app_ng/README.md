@@ -26,14 +26,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-![image](https://github.com/MitarReda/Architecture-JEE-et-Middelwares/blob/main/TP%204%20-%20Angular%20Framework/ENSET_app_ng/IMG/tp4-1.png)
+![image](https://github.com/MitarReda/Architecture-JEE-et-Middelwares/blob/main/TP%204%20-%20Angular%20Framework/ENSET_app_ng/IMG/TP4-1.png)
 
-![image](https://github.com/MitarReda/Architecture-JEE-et-Middelwares/blob/main/TP%204%20-%20Angular%20Framework/ENSET_app_ng/IMG/tp4-1-0.png)
+![image](https://github.com/MitarReda/Architecture-JEE-et-Middelwares/blob/main/TP%204%20-%20Angular%20Framework/ENSET_app_ng/IMG/TP4-1-0.png)
 
-![image](https://github.com/MitarReda/Architecture-JEE-et-Middelwares/blob/main/TP%204%20-%20Angular%20Framework/ENSET_app_ng/IMG/tp4-2.png)
+![image](https://github.com/MitarReda/Architecture-JEE-et-Middelwares/blob/main/TP%204%20-%20Angular%20Framework/ENSET_app_ng/IMG/TP4-2.png)
 
-![image](https://github.com/MitarReda/Architecture-JEE-et-Middelwares/blob/main/TP%204%20-%20Angular%20Framework/ENSET_app_ng/IMG/tp4-3.png)
+![image](https://github.com/MitarReda/Architecture-JEE-et-Middelwares/blob/main/TP%204%20-%20Angular%20Framework/ENSET_app_ng/IMG/TP4-3.png)
 
-![image](https://github.com/MitarReda/Architecture-JEE-et-Middelwares/blob/main/TP%204%20-%20Angular%20Framework/ENSET_app_ng/IMG/tp4-4.png)
+![image](https://github.com/MitarReda/Architecture-JEE-et-Middelwares/blob/main/TP%204%20-%20Angular%20Framework/ENSET_app_ng/IMG/TP4-4.png)
 
 
